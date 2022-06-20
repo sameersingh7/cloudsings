@@ -1,0 +1,1 @@
+CloudSings - Your Friendly Music Bot
