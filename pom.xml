@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cloudsings</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>cloud-sings-bot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>CloudSings</name>
 	<description>CloudSings - Your Friendly Music Bot</description>
 	<properties>
 		<java.version>11</java.version>
