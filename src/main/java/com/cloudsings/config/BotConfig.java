@@ -13,7 +13,7 @@ import java.util.List;
 @Configuration
 public class BotConfig {
 
-    @Value("${token}")
+    @Value("${discord.auth_token}")
     private String token;
 
     @Bean
