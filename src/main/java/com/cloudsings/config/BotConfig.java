@@ -7,9 +7,10 @@ import discord4j.core.event.domain.Event;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-
+import org.springframework.scheduling.annotation.EnableScheduling;
 import java.util.List;
 
+@EnableScheduling
 @Configuration
 public class BotConfig {
 
