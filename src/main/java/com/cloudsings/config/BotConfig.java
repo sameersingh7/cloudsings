@@ -1,6 +1,6 @@
 package com.cloudsings.config;
 
-import com.cloudsings.listeners.EventListener;
+import com.cloudsings.listener.EventListener;
 import discord4j.core.DiscordClientBuilder;
 import discord4j.core.GatewayDiscordClient;
 import discord4j.core.event.domain.Event;

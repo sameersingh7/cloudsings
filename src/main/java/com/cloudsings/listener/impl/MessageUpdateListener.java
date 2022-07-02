@@ -1,7 +1,7 @@
-package com.cloudsings.listeners.impl;
+package com.cloudsings.listener.impl;
 
-import com.cloudsings.listeners.EventListener;
-import com.cloudsings.listeners.MessageListener;
+import com.cloudsings.listener.EventListener;
+import com.cloudsings.listener.MessageListener;
 import discord4j.core.event.domain.message.MessageUpdateEvent;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Mono;

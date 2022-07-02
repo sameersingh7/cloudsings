@@ -1,6 +1,6 @@
-package com.cloudsings.spotify.auth;
+package com.cloudsings.model.spotify;
 
-public class AuthorizerResponse {
+public class SpotifyTokenResponse {
     private String token_type;
     private String access_token;
     private String expires_in;
